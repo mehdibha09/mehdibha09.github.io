@@ -16,17 +16,16 @@ timezone:
 
 title: Mehdi Ben Hadjali # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: ISIMA Student | Networks, Cybersecurity & SOC Operations # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  test.
-
+description: >-
+  I'm a Network student at ISIMA, passionate about cybersecurity, hands-on penetration testing, and SOC/Blue Team defense.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: mehdibha09 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -98,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: ./assets/img/my_image.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
