@@ -47,7 +47,7 @@ I am passionate about analyzing threats, learning how to improve security contro
 
 ### Certificates Gallery
 
-| ![Junior Pentester](assets/img/certs/Jr Penetration Tester.jpg){: width="230"} | ![Web Fundamentals](assets/img/certs/web fundementale.jpg){: width="230"} | ![Elastic SIEM](assets/img/certs/SIEM.jpeg){: width="230"} |
+| ![Junior Pentester](assets/img/certs/Jr Penetration Tester.jpg){: width="230"} | ![Web Fundamentals](assets/img/certs/web fundementale.jpg){: width="230"} | ![Elastic SIEM](assets/img/certs/Elastic Security for SIEM.jpeg){: width="230"} |
 | --- | --- | --- |
 | **Junior Pentester**  <br> TryHackMe | **Web Fundamentals**  <br> TryHackMe | **Elastic Security for SIEM** <br> Elastic |
 

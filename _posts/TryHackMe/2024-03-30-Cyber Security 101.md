@@ -3,6 +3,7 @@ layout: post
 title: "Cyber Security 101 – Complete Learning Path"
 categories:
 - Certifications
+- TryHackMe
 tags:
 - Cybersecurity
 - Offsec

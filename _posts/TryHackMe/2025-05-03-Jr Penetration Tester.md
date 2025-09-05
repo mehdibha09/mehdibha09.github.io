@@ -3,6 +3,7 @@ layout: post
 title: "Junior Pentester – TryHackMe Learning Path"
 categories:
 - Certifications
+- TryHackMe
 tags:
 - Cybersecurity
 - Offsec

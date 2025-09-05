@@ -3,6 +3,7 @@ layout: post
 title: "Pre Security – TryHackMe Learning Path"
 categories:
 - Certifications
+- TryHackMe
 tags:
 - Cybersecurity
 - Fundamentals

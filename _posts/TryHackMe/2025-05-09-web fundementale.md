@@ -3,6 +3,7 @@ layout: post
 title: "Web Fundamentals – TryHackMe Learning Path"
 categories:
 - Certifications
+- TryHackMe
 tags:
 - Cybersecurity
 - Web Security
