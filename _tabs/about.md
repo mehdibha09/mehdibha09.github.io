@@ -4,53 +4,29 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page. -->
-<!-- {: .prompt-tip } -->
 ## About Me
 
-👋 Hello! I’m Mehdi, a Network student at ISIMA with a strong interest in cybersecurity, focusing on defensive operations (Blue Team/SOC) and network security.
+👋 Hello! I’m Mehdi, a Network student at ISIMA with a strong interest in cybersecurity, particularly in defensive operations (Blue Team/SOC) and network security.
 
-I have been exploring areas such as monitoring, threat detection, incident response, and network security through labs, simulations, and academic projects. This has given me a solid understanding of cybersecurity concepts and practices.
+I enjoy exploring areas such as **monitoring, threat detection, network defense, and security analytics** through hands-on labs, simulations, and academic projects. This experience has given me a solid understanding of cybersecurity principles and practical skills to secure networks and systems.
 
-I am passionate about analyzing threats, learning how to improve security controls, and exploring defensive strategies to protect networks from cyber attacks. I enjoy solving challenges, experimenting with security tools, and deepening my knowledge in network and cybersecurity techniques.
+I am passionate about analyzing threats, improving security controls, and implementing defensive strategies to protect digital infrastructures. I enjoy solving security challenges, experimenting with tools, and deepening my knowledge in cybersecurity techniques.
 
 ### Skills & Interests
 
-- Defensive Security / SOC Operations 
+- Defensive Security / SOC Operations  
 - Network Security & Monitoring  
-- Threat Analysis & Incident Response 
-- Penetration Testing & Blue Team Practices 
+- Threat Analysis & Detection  
+- Security Automation & SIEM (Wazuh, Elastic)  
+- Web & System Security (SQL Injection, Shellshock, CVEs)  
+- Linux & Windows Systems Administration  
+- Penetration Testing & Blue Team Practices  
 
-### Certifications & Achievements
 
-#### TryHackMe
-- **Junior Penetration Tester Certificate** – May 2025 (Credential ID: THM-6M0KLKAQLQ)  
-- **Web Fundamentals Certificate** – May 2025 (Credential ID: THM-IICMC9ONE6)  
-- **Cyber Security 101 Certificate** – Mar 2025 (Credential ID: THM-NPONJGHAUT)  
-- **Pre Security Certificate** – Mar 2025 (Credential ID: THM-25YZCK5HKC)  
+### Interests
 
-#### Cisco Networking Academy (NetAcad)
-- **Linux Essentials** – Jan 2025  
-- **Networking Devices and Initial Configuration** – Jan 2025  
-- **Introduction to Cybersecurity** – Dec 2024  
-- **Networking Basics** – Nov 2024  
-- **Linux Unhatched** – Oct 2024  
-
-#### Elastic
-- **Elastic Security for SIEM** – Aug 2025  
-
-#### Udemy
-- **The Web Developer Bootcamp 2023** – Dec 2023  
-  Skills: HTML, CSS, JavaScript, Node.js, Express.js, npm, AJAX, REST APIs, MongoDB  
-
----
-
-### Certificates Gallery
-
-| ![Junior Pentester](assets/img/certs/Jr Penetration Tester.jpg){: width="230"} | ![Web Fundamentals](assets/img/certs/web fundementale.jpg){: width="230"} | ![Elastic SIEM](assets/img/certs/Elastic Security for SIEM.jpeg){: width="230"} |
-| --- | --- | --- |
-| **Junior Pentester**  <br> TryHackMe | **Web Fundamentals**  <br> TryHackMe | **Elastic Security for SIEM** <br> Elastic |
-
-| ![Linux Essentials](assets/img/certs/Linux Essentials.jpg){: width="230"} | ![Udemy WebDev](assets/img/certs/The Web Developer Bootcamp 2023.jpeg){: width="230"} | 
-| --- | --- |
-| **Linux Essentials**  <br> NetAcad | **The Web Developer Bootcamp**  <br> Udemy |
+- Cybersecurity Defense Strategies  
+- Blue Team & SOC Operations  
+- Threat Intelligence & Vulnerability Management  
+- Network Security & Architecture  
+- Continuous Learning in Cybersecurity Tools & Techniques
